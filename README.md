@@ -178,10 +178,6 @@ Full interactive docs live at `/docs` when the server is running.
 
 Issues and pull requests are welcome. If you tune the decision-engine thresholds for another region or add a new rule, please describe your reasoning in the PR.
 
-## License
-
-Add a license of your choice (for example MIT) as a `LICENSE` file and name it here.
-
 ---
 
 <div align="center">
